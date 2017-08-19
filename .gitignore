@@ -1,0 +1,14 @@
+# android files
+.gradle
+build/
+gradle/
+gradlew
+gradlew.bat
+
+# idea files
+.idea
+*.impl
+*.iml
+*.ipr
+*.iws
+*.properties
